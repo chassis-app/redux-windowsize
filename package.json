@@ -1,7 +1,7 @@
 {
 	"name": "@screw123/redux-windowsize",
-	"version": "1.0.2",
-	"description": "A redux dynamic module to get browser width, height and position into store",
+	"version": "1.0.4",
+	"description": "A redux dynamic module to get browser width, height, position and font size into store",
 	"main": "index.js",
 	"repository": "https://github.com/screw123/redux-windowsize.git",
 	"author": "Ross Chiu",

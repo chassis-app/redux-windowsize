@@ -53,4 +53,4 @@ exports.getPositionAction = () => {
 	}
 }
 
-exports.default = windowSizeReducer
+exports.reducer = { windowSize: windowSizeReducer }

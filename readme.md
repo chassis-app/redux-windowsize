@@ -10,5 +10,4 @@ windowSize : {
 
 ## to use
 
-1. `yarn add redux-dynamic-modules`
-2. `yarn add @screw123/redux-windowsize`
+1. `yarn add @screw123/redux-windowsize`
