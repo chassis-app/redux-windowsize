@@ -1,7 +1,7 @@
 const windowSizeReducer = (
 	state = {
 		width: typeof window === "object" ? window.innerWidth || 100 : 100,
-		height: typeof window === "object" ? window.innerWidth || 100 : 100,
+		height: typeof window === "object" ? window.innerHeight || 100 : 100,
 		fontSize:
 			typeof document === "object"
 				? parseFloat(getComputedStyle(document.body).fontSize) || 16
