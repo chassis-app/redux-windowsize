@@ -28,9 +28,7 @@ const windowSizeReducer = (
 			return state
 	}
 }
-/**
- * testing
- */
+
 exports.getSizeAction = () => {
 	return {
 		type: "windowSize.UpdateSize",
