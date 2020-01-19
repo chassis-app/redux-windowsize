@@ -24,7 +24,6 @@ const windowSizeReducer = (
 		case "windowSize.UpdateFontSize":
 			return Object.assign({}, state, { fontSize: data.fontSize })
 		default:
-			console.log("default called")
 			return state
 	}
 }
